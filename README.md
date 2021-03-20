@@ -1,7 +1,7 @@
 # Sudoku Solver in Python
 
 Solves the classic game of sudoku by using either the classic backtracking approach or a more efficient approach using the algorithm outlined by Donald Knuth. 
-Read more about Knuth's Algorithm X here: https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X#:~:text=Algorithm%20X%20is%20an%20algorithm,uses%20the%20dancing%20links%20technique.
+[Read more about Knuth's Algorithm X here:](https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X#:~:text=Algorithm%20X%20is%20an%20algorithm,uses%20the%20dancing%20links%20technique)
 
 ## Installation
 
