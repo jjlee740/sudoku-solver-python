@@ -24,7 +24,7 @@ python3 sudoku-solver.py
 
 ## Exact Cover & Dancing Links
 
-The theory behind exact cover and dancing links can be difficult to grasp but actually extremely intuitive once you wrap your head around them. 
+The theory behind exact cover and dancing links can be difficult to grasp but extremely intuitive once you wrap your head around them. 
 Below is a quick recap of what an exact cover problem is and how dancing links may help solve these problems. 
 
 Sudoku problems belong in the class of Exact Cover problems which have a defined deterministic solution. 
