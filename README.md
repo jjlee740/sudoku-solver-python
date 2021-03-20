@@ -5,7 +5,7 @@ Read more about Knuth's Algorithm X here: https://en.wikipedia.org/wiki/Knuth%27
 
 ## Installation
 
-Ensure that you have the required packages installed. 
+To install the required packages: 
 
 On macOS/Linux:
 ```
